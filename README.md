@@ -17,4 +17,4 @@ Summarize product offerings in the accelerated computing space
 
 ## **References:**
 
-Merlin. https://nvidia-merlin.github.io/Merlin/main/index.html****
+Merlin. https://nvidia-merlin.github.io/Merlin/main/index.html
