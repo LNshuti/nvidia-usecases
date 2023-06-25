@@ -3,14 +3,14 @@ Summarize product offerings in the accelerated computing space
 
 1. NVIDIA Merlin
 
-  NVTabular
+  - NVTabular
   
-  HugeCTR
+  - HugeCTR
   
-  Merlin Models
+  - Merlin Models
   
-  Transformers4Rec
+  - Transformers4Rec
   
-  Merlin Systems
+  - Merlin Systems
   
-  Merlin Core 
+  - Merlin Core 
