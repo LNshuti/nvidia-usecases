@@ -1,7 +1,7 @@
-# Nvidia use cases
+# **Nvidia use cases**
 Summarize product offerings in the accelerated computing space
 
-1. NVIDIA Merlin
+# **NVIDIA Merlin**
 
   - **NVTabular:** Feature engineering and preprocessing library for tabular data. 
   
