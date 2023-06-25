@@ -3,14 +3,18 @@ Summarize product offerings in the accelerated computing space
 
 1. NVIDIA Merlin
 
-  - NVTabular
+  - **NVTabular:** Feature engineering and preprocessing library for tabular data. 
   
-  - HugeCTR
+  - **HugeCTR:** GPU-accelerated training for large-scale deep learning recommendation models. Scale embedding tables over multiple GPUs. 
   
-  - Merlin Models
+  - **Merlin Models**
   
   - Transformers4Rec
   
   - Merlin Systems
   
-  - Merlin Core 
+  - Merlin Core
+
+## **References:**
+
+Merlin. https://nvidia-merlin.github.io/Merlin/main/index.html****
